@@ -39,6 +39,9 @@
 *.sdf
 *.VC.opendb
 
+#Assets in which heavy files exists Only push this in master
+Assets/*
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
